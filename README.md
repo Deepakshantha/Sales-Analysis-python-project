@@ -3,9 +3,6 @@
 This project is a comprehensive sales data analysis performed using **Python** in a **Jupyter Notebook** environment.
 It focuses on reading, processing, and visualizing sales data from a CSV file to uncover useful business insights.
 
-* sales_analysis.ipynb # Main Jupyter Notebook with all analysis
-* sales_data.csv # Raw CSV file used for analysis
-
 ## 🔧 Tools & Technologies
 
 - **Python**
