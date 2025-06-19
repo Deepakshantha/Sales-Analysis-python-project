@@ -21,6 +21,8 @@ It focuses on reading, processing, and visualizing sales data from a CSV file to
 - Total and Average Sales Calculation    
 - Visualizations using line charts, bar plots, and pie charts
 
+File - https://github.com/Deepakshantha/Sales-Analysis-python-project/blob/main/Blinkit%20Analysis.ipynb
+
 ## 🟢 Completed – Ready for review
 
 
